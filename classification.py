@@ -73,7 +73,7 @@ class FeaturesExtractor:
         self.k = 50
 
         # Number of training points per class
-        self.num_per_class = 5000 # 20000
+        self.num_per_class = 5000
 
         # Classification labels
         self.label_names = {0: 'Unclassified',
