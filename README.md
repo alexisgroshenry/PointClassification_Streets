@@ -29,6 +29,7 @@ We report the following results :
 and the following confusion matrix
 
 |  | Predicted Ground  | Predicted Building | Predicted Pole | Predicted Pedestrian | Predicted Cars | Predicted Vegetation |
+|------|------|------|------|------|------|------|
 | Ground | 1283306 | 739 | 1273 |	977 | 1517 | 178 |
 | Building| 24508 | 1215350 | 7904 | 10454 | 820 | 46341 |
 | Pole | 2 | 993 | 11267 | 10 | 44 | 483 |
