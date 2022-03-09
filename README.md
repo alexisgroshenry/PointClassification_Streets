@@ -17,7 +17,7 @@ The main steps of the model are the following :
 
 The model is trained on 3 small Point Clouds (MiniLille1, MiniLille2 ad MiniParis1) and tested on the Point Cloud MiniDijon9.
 
-We report the following IoU results :
+We report the following results :
 
 |   | Av | Ground  | Building | Pole | Pedestrian | Cars | Vegetation |
 |------|------|------|------|------|------|------|------|
@@ -29,9 +29,9 @@ We report the following IoU results :
 and the following confusion matrix
 
 |  | Predicted Ground  | Predicted Building | Predicted Pole | Predicted Pedestrian | Predicted Cars | Predicted Vegetation |
-Ground | 1283306 | 739 | 1273 |	977 | 1517 | 178 |
-Building| 24508 | 1215350 | 7904 | 10454 | 820 | 46341 |
-Pole | 2 | 993 | 11267 | 10 | 44 | 483 |
-Pedestrian | 71 | 563 | 199 | 2685 | 1541 | 555 |
-Cars | 2546 | 4742 | 13 | 3869 | 16481 | 1387 |
-Vegetation | 6 | 9479 | 14736 | 1756 | 34 | 317698 |
+| Ground | 1283306 | 739 | 1273 |	977 | 1517 | 178 |
+| Building| 24508 | 1215350 | 7904 | 10454 | 820 | 46341 |
+| Pole | 2 | 993 | 11267 | 10 | 44 | 483 |
+| Pedestrian | 71 | 563 | 199 | 2685 | 1541 | 555 |
+| Cars | 2546 | 4742 | 13 | 3869 | 16481 | 1387 |
+| Vegetation | 6 | 9479 | 14736 | 1756 | 34 | 317698 |
