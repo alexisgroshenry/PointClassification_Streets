@@ -18,7 +18,7 @@ The main steps of the model are the following :
 The model is trained on 3 small Point Clouds (MiniLille1, MiniLille2 ad MiniParis1) and tested on the Point Cloud MiniDijon9. The classified MiniDijon9 point cloud can be seen below.
 
 <div align="center">
-  <img src="images/npm_res.jpg" width="700px" />
+  <img src="images/np_res.jpg" width="700px" />
   <p>Final Point Cloud Classification</p>
 </div>
 
